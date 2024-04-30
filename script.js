@@ -30,14 +30,14 @@ $(document).ready(function () {
     });
   
     var typed = new Typed(".typing", {
-      strings: ["Software Engineer", "Frontend Developer", "Backend Developer", "Student"],
+      strings: ["Software Engineer", "Frontend Developer"],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true,
     });
   
     var typed = new Typed(".typing2", {
-      strings: ["Software Engineer","Frontend Developer", "Backend Developer", "Student"],
+      strings: ["Software Engineer","Frontend Developer"],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true,
